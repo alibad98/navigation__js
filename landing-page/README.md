@@ -28,4 +28,4 @@
 ### Author's name 
 #### Ali Badawi.
 
-![Screenshot](Screenshot 2022-08-30 061411.png)
+![Screenshot 2022-08-30 061411](https://user-images.githubusercontent.com/85761467/187595987-de4b8eed-3eac-4017-97f0-6c30ab5dd5d3.png)
